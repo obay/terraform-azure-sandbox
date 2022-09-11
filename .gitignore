@@ -37,3 +37,4 @@ runme.ps1
 runme.sh
 terraformgit.sh
 .infracost/
+release.sh
