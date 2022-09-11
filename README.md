@@ -24,9 +24,9 @@ module "sandbox" {
   version         = "1.0.0"
   location        = "westus2"
   EnvironmentName = "Sandbox"
-  ProjectName     = "App2"
+  ProjectName     = "App1"
   AdminUsername   = "adminuser"
-  AdminPassword   = "Jani2meFo6zie2ko7Aiqua8a"
+  AdminPassword   = "SuperSecretPassword123!"
 }
 ```
 
